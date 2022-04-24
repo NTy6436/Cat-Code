@@ -1,6 +1,15 @@
 from turtle import update
 import mysql.connector
 
+'''
+State your group member name and id here:
+1. 2022052ngen - Ngen Ty
+2. 2022093chan - Chan Chivi Throkal
+3. 2022282nhoem - Nhoem Vanneit
+4. 2022053sok - Sok Samady
+
+'''
+
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
